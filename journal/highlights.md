@@ -6,3 +6,5 @@
 
 - Keep writing simple and easy to continue daily.
 
+- Let the journal grow naturally over time.
+
