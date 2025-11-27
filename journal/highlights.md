@@ -8,3 +8,5 @@
 
 - Let the journal grow naturally over time.
 
+- Highlight the most meaningful thoughts of the day.
+
