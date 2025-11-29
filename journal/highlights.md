@@ -10,3 +10,5 @@
 
 - Highlight the most meaningful thoughts of the day.
 
+- Capture moments that sparked curiosity or motivation.
+
