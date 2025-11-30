@@ -12,3 +12,5 @@
 
 - Capture moments that sparked curiosity or motivation.
 
+- Keep entries short but insightful.
+
