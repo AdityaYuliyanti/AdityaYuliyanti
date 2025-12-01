@@ -14,3 +14,5 @@
 
 - Keep entries short but insightful.
 
+- Identify ideas that could evolve into projects later.
+
