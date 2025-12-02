@@ -16,3 +16,5 @@
 
 - Identify ideas that could evolve into projects later.
 
+- Avoid overthinking; record what feels natural.
+
