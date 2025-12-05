@@ -18,3 +18,5 @@
 
 - Avoid overthinking; record what feels natural.
 
+- Keep writing simple and easy to continue daily.
+
