@@ -22,3 +22,7 @@
 
 - Let the journal grow naturally over time.
 
+
+Consider adding a README.md file explaining the purpose and structure of the repository.
+Perhaps explore adding unit tests for the code.
+
