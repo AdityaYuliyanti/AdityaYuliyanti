@@ -26,3 +26,7 @@
 Consider adding a README.md file explaining the purpose and structure of the repository.
 Perhaps explore adding unit tests for the code.
 
+
+*   Consider adding a `.github/workflows` directory for CI/CD automation (e.g., linting, testing).
+*   A `CONTRIBUTING.md` file would be beneficial for guiding potential collaborators.
+
