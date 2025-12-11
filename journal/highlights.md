@@ -30,3 +30,7 @@ Perhaps explore adding unit tests for the code.
 *   Consider adding a `.github/workflows` directory for CI/CD automation (e.g., linting, testing).
 *   A `CONTRIBUTING.md` file would be beneficial for guiding potential collaborators.
 
+
+*   Consider adding a CONTRIBUTING.md file to outline guidelines for contributions.
+*   Explore integrating a CI/CD pipeline for automated testing and deployment.
+
