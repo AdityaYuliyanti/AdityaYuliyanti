@@ -34,3 +34,7 @@ Perhaps explore adding unit tests for the code.
 *   Consider adding a CONTRIBUTING.md file to outline guidelines for contributions.
 *   Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Explore potential for a "Contribution Guidelines" document.
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
