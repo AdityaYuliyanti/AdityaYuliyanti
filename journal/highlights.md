@@ -42,3 +42,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore adding a `LICENSE` file for clarity on usage and distribution.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+*   Explore adding unit tests for key functionalities.
+
