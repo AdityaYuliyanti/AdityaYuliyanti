@@ -46,3 +46,9 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 *   Explore adding unit tests for key functionalities.
 
+
+Contributions to the `AdityaYuliyanti` repo could focus on:
+
+*   Developing more sophisticated sentiment analysis models that can handle nuanced language and sarcasm.
+*   Creating interactive visualizations or dashboards to explore the dataset and model performance.
+
