@@ -52,3 +52,8 @@ Contributions to the `AdityaYuliyanti` repo could focus on:
 *   Developing more sophisticated sentiment analysis models that can handle nuanced language and sarcasm.
 *   Creating interactive visualizations or dashboards to explore the dataset and model performance.
 
+
+Consider adding a README.md file to explain the purpose of the repository and any projects within.
+
+Explore adding a CONTRIBUTING.md file if collaboration is intended.
+
