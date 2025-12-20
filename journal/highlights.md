@@ -65,3 +65,7 @@ Explore adding a CONTRIBUTING.md file if collaboration is intended.
 Consider adding a README.md file explaining the purpose and contents of the repository.
 Explore organizing projects into subdirectories for better structure and maintainability.
 
+
+Consider adding a README.md file explaining the purpose of the repository and its contents.
+Potentially add a CONTRIBUTING.md file to guide potential collaborators.
+
