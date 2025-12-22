@@ -75,3 +75,8 @@ Potential contributions:
 *   Implement a project showcase or portfolio section.
 *   Add CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README.md file with a brief project description, installation instructions, and usage examples.
+
+Explore incorporating CI/CD pipelines for automated testing and deployment.
+
