@@ -84,3 +84,7 @@ Explore incorporating CI/CD pipelines for automated testing and deployment.
 - **Explore contribution guidelines:** If AdityaYuliyanti has a `CONTRIBUTING.md` file, review it for instructions on how to submit code, report bugs, or suggest features.
 - **Check for issue tracker:** Look for an "Issues" tab to see active discussions, bug reports, or feature requests. This can be a great way to understand current priorities and areas for potential contributions.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+*   Implement a CI/CD pipeline for automated testing and deployment.
+
