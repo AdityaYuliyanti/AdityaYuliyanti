@@ -88,3 +88,9 @@ Explore incorporating CI/CD pipelines for automated testing and deployment.
 *   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 *   Implement a CI/CD pipeline for automated testing and deployment.
 
+
+AdityaYuliyanti/react-native-canvas
+
+*   Consider adding an option to export the canvas as a base64 encoded image.
+*   Explore potential performance optimizations for complex drawings, perhaps by leveraging native rendering capabilities more directly.
+
