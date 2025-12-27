@@ -99,3 +99,7 @@ Consider adding documentation for each project, explaining its purpose, setup, a
 
 Explore adding unit tests to ensure the reliability and stability of your code.
 
+
+Potential for a portfolio website showcasing projects and skills.
+Consider adding a README with project descriptions and setup instructions.
+
