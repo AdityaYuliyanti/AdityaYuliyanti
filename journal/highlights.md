@@ -94,3 +94,8 @@ AdityaYuliyanti/react-native-canvas
 *   Consider adding an option to export the canvas as a base64 encoded image.
 *   Explore potential performance optimizations for complex drawings, perhaps by leveraging native rendering capabilities more directly.
 
+
+Consider adding documentation for each project, explaining its purpose, setup, and usage.
+
+Explore adding unit tests to ensure the reliability and stability of your code.
+
