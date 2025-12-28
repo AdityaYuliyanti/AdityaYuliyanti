@@ -103,3 +103,7 @@ Explore adding unit tests to ensure the reliability and stability of your code.
 Potential for a portfolio website showcasing projects and skills.
 Consider adding a README with project descriptions and setup instructions.
 
+
+*   Consider adding a README.md to each project explaining its purpose, how to set it up, and how to run it.
+*   A clear contribution guide could encourage collaboration.
+
