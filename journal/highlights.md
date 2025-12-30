@@ -107,3 +107,7 @@ Consider adding a README with project descriptions and setup instructions.
 *   Consider adding a README.md to each project explaining its purpose, how to set it up, and how to run it.
 *   A clear contribution guide could encourage collaboration.
 
+
+Potential for a portfolio website.
+Consider adding a "Projects" section with detailed descriptions and links.
+
