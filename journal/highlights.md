@@ -111,3 +111,7 @@ Consider adding a README with project descriptions and setup instructions.
 Potential for a portfolio website.
 Consider adding a "Projects" section with detailed descriptions and links.
 
+
+Focus on code quality and documentation.
+Consider adding a README.md with project overview and setup instructions.
+
