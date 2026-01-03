@@ -119,3 +119,7 @@ Consider adding a README.md with project overview and setup instructions.
 * Consider a GitHub Pages site for showcasing personal projects.
 * Explore contributions to open-source projects related to Java or Android development.
 
+
+Potential for adding example usage or integration tutorials.
+Consider a contribution guide for community involvement.
+
