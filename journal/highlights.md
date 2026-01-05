@@ -127,3 +127,7 @@ Consider a contribution guide for community involvement.
 Consider adding a README detailing project goals, setup, and contribution guidelines.
 Explore potential for a CI/CD pipeline for automated testing and deployment.
 
+
+Potential for a personal portfolio or blog showcasing projects.
+Could feature contributions to open-source projects.
+
