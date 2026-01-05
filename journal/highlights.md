@@ -123,3 +123,7 @@ Consider adding a README.md with project overview and setup instructions.
 Potential for adding example usage or integration tutorials.
 Consider a contribution guide for community involvement.
 
+
+Consider adding a README detailing project goals, setup, and contribution guidelines.
+Explore potential for a CI/CD pipeline for automated testing and deployment.
+
