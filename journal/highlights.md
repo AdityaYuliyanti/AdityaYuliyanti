@@ -131,3 +131,7 @@ Explore potential for a CI/CD pipeline for automated testing and deployment.
 Potential for a personal portfolio or blog showcasing projects.
 Could feature contributions to open-source projects.
 
+
+Consider adding a contribution guide to outline how others can contribute.
+Explore the possibility of integrating a CI/CD pipeline for automated testing and deployment.
+
