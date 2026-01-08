@@ -135,3 +135,7 @@ Could feature contributions to open-source projects.
 Consider adding a contribution guide to outline how others can contribute.
 Explore the possibility of integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Improve README with contribution guidelines and contact info.
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
