@@ -139,3 +139,7 @@ Explore the possibility of integrating a CI/CD pipeline for automated testing an
 Improve README with contribution guidelines and contact info.
 Consider adding a CI/CD pipeline for automated testing and deployment.
 
+
+- Consider adding a README file to explain the project's purpose, setup, and usage.
+- Organize code into logical directories (e.g., `src`, `tests`, `docs`) for better maintainability.
+
