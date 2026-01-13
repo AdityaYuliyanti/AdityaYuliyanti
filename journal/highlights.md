@@ -143,3 +143,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 - Consider adding a README file to explain the project's purpose, setup, and usage.
 - Organize code into logical directories (e.g., `src`, `tests`, `docs`) for better maintainability.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore using GitHub Actions for CI/CD and automated testing.
+
