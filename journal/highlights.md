@@ -147,3 +147,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 Explore using GitHub Actions for CI/CD and automated testing.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
+*   Explore adding a `.gitignore` file to prevent accidental commits of unnecessary files (e.g., build artifacts, IDE configurations).
+
