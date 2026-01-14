@@ -151,3 +151,7 @@ Explore using GitHub Actions for CI/CD and automated testing.
 *   Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
 *   Explore adding a `.gitignore` file to prevent accidental commits of unnecessary files (e.g., build artifacts, IDE configurations).
 
+
+- **Contribution Guidelines**: Clearly define how others can contribute (bug reports, feature requests, code submissions).
+- **Project Roadmap**: Outline future plans and development direction for the repository.
+
