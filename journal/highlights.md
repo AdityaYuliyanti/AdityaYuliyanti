@@ -155,3 +155,9 @@ Explore using GitHub Actions for CI/CD and automated testing.
 - **Contribution Guidelines**: Clearly define how others can contribute (bug reports, feature requests, code submissions).
 - **Project Roadmap**: Outline future plans and development direction for the repository.
 
+
+AdityaYuliyanti/Awesome-Data-Science
+
+*   Consider adding a "Projects" section with links to notable data science projects from the community.
+*   Integrate a "Community Contributions" or "Featured Members" section to highlight active contributors.
+
