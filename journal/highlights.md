@@ -170,3 +170,8 @@ Consider adding a README.md file to each repository explaining its purpose, how 
 
 Explore opportunities for collaborative development by inviting contributors or sharing project progress on platforms like GitHub Discussions.
 
+
+AdityaYuliyanti/react-ecommerce-ui-kit
+- Consider adding a "Getting Started" section to the README with clear installation and usage instructions.
+- Explore creating a style guide or design system documentation to showcase components and their variations.
+
