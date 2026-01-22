@@ -175,3 +175,9 @@ AdityaYuliyanti/react-ecommerce-ui-kit
 - Consider adding a "Getting Started" section to the README with clear installation and usage instructions.
 - Explore creating a style guide or design system documentation to showcase components and their variations.
 
+
+AdityaYuliyanti
+
+*   **Focus on portfolio showcase:** Highlight diverse projects with clear descriptions and links.
+*   **Contribution to open source:** If applicable, showcase any open-source contributions or personal projects that demonstrate collaborative skills.
+
