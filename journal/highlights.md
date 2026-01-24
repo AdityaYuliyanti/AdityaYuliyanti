@@ -181,3 +181,7 @@ AdityaYuliyanti
 *   **Focus on portfolio showcase:** Highlight diverse projects with clear descriptions and links.
 *   **Contribution to open source:** If applicable, showcase any open-source contributions or personal projects that demonstrate collaborative skills.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore implementing CI/CD pipelines for automated testing and deployment.
+
