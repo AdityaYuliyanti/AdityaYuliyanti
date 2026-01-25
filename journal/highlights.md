@@ -189,3 +189,7 @@ Explore implementing CI/CD pipelines for automated testing and deployment.
 Explore potential for backend development, possibly with Python/Django or Node.js.
 Consider adding a README with project descriptions and setup instructions.
 
+
+*   Consider adding a `README.md` file explaining the project's purpose and how to use it.
+*   Explore CI/CD integration for automated testing and deployment.
+
