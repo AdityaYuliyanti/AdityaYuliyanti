@@ -185,3 +185,7 @@ AdityaYuliyanti
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore implementing CI/CD pipelines for automated testing and deployment.
 
+
+Explore potential for backend development, possibly with Python/Django or Node.js.
+Consider adding a README with project descriptions and setup instructions.
+
