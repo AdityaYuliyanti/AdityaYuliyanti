@@ -197,3 +197,7 @@ Consider adding a README with project descriptions and setup instructions.
 Project showcase of personal portfolio and web development projects.
 Potential for a blog section to share coding insights and tutorials.
 
+
+- **Focus on contributing to the development of machine learning models for natural language processing.**
+- **Explore projects related to sentiment analysis or text summarization.**
+
